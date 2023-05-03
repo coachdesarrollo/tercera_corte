@@ -1,0 +1,48 @@
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    margin: 50px;
+}
+
+
+.html_h2{
+    color: orangered;
+}
+.css_h2{
+    color: rgb(0, 89, 255);
+}
+
+
+h1{
+    color: white;
+}
+h2{
+    color: black;
+}
+header,h1{
+    text-align: center;
+}
+
+
+header{
+    background-color: red ;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+
+}
+p{
+    text-align: left;
+}
+.imagen-html-css{
+    display: block;
+    margin:0 auto;
+}
+
+
+
+
+
