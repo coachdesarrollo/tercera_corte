@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+background-color: white;
+
+
+}
+.titulo_valery{
+    color: rgb(127, 120, 197);
+}
+
+
+.foto-valery{
+    border: solid ;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: #13C5F5;
+}
+.tabla-ejemplo,table,th,td,tr{
+    border: 1px solid green;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+
+
